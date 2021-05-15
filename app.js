@@ -22,7 +22,7 @@ app.post("/", function (req, res) {
 
     var country = req.body.country
     var query = country
-    var apiKey = "39535c6bc9ca9dc8a086acf0aec66d18"
+    var apiKey = "your api key here"
     var unit = "metric"
     var url = `https://api.openweathermap.org/data/2.5/weather?q=${query}&appid=${apiKey}&units=${unit}`
 
