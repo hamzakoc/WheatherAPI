@@ -11,3 +11,11 @@ It requries below npm packages <br>
 -body-parser<br>
 -nodemon(optional)
 
+<br><br><br>
+
+How to run ?<br>
+1-install all necessary packages.<br>
+2-open terminal and locate working directory<br>
+3-Write in terminal "npm start" or "node index.hmtl" or "nodemon index.html"
+
+
