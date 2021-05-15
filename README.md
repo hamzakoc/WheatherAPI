@@ -14,7 +14,7 @@ It requries below npm packages <br>
 <br><br><br>
 
 How to run ?<br>
-Get an API key from openweathermap.org and enter into app.js
+Get an API key from openweathermap.org and enter into app.js<br>
 1-Install all necessary packages.<br>
 2-Open terminal and locate working directory<br>
 3-Write in terminal "npm start" or "node index.html" or "nodemon index.html"
